@@ -5,7 +5,7 @@ export ZONE=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/tariqsheikhsw/GoogleCloudArchitectLabs/main/Solutions/GSP188.sh
+curl -LO https://raw.githubusercontent.com/manishmk0067-png/GoogleCloudArchitechLabs/refs/heads/main/manish188.sh
 
 sudo chmod +x manish188.sh
 
