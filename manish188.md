@@ -1,7 +1,7 @@
 ### manish188 : App Dev: Deploying the Application into Kubernetes Engine - Python 
 
 ```
-export ZONE=us-east1-d
+export ZONE=
 ```
 
 ```
